@@ -15,7 +15,7 @@ At the age of 10 I went to techkidz.ie summer camp. This is where I learned basi
 In my TY year I was involved with the Johnson Control STEM program for the duration of the year. I was working with a group of 5 students and we worked to build a website focusing on mindfulness. We had to consider things like CSS on our site and worked together well as a team. Last summer I went to the UCC summer coding camp. That’s where I really started to learn python, after that I continued on to the 2019 UCC MPT program. 
 
 During the MPT program I learned so much python (such as repetitions, functions, lists, turtle graphics, files, strings and tkinter interface) Java, CSS and so much more html then I knew before. My websites went from looking like <a href="https://web.archive.org/web/20200208105913/https://cs1.ucc.ie/~cl33/week1/week1.html" target="_blank">this</a>
- to looking like <a href="[https://cs1.ucc.ie/~cl33/competition/week5/](https://web.archive.org/web/20200229112156/https://cs1.ucc.ie/~cl33/competition/week5/)" target="_blank">this</a>
+ to looking like [this](https://web.archive.org/web/20200229112156/https://cs1.ucc.ie/~cl33/competition/week5/)
  and I learned how to implement more interactive features in websites such as <a href="[https://cs1.ucc.ie/~cl33/week4/](https://web.archive.org/web/20200229101043/https://cs1.ucc.ie/~cl33/week4/)" target="_blank">this</a>
  
 During my 2020 midterm break I also did work experience with the Live Optics Software development team in Dell since I was interested to see what it would be like working with a software development team and I got to learn about the development process, sprints and quality checks. 
