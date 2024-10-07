@@ -3,6 +3,7 @@
 A bright, ambitious, and self-motivated Software Development student who is passionate about developing my career and bringing the best to the company I join. 
 I have a proven ability to be persistent and have the drive to keep going in the face of difficult challenges. 
 Furthermore, I excel in tasks due to my organised approach, ensuring efficient completion through meticulous adherence to guidelines.
+
 [My Website](https://ciaralooney.netlify.app/)
 
 [Connect with me on linkedin](https://www.linkedin.com/in/ciara-looney/)
