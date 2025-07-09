@@ -1,4 +1,4 @@
-### Introduction 👋
+### Introduction 
 
 A bright, ambitious, and self-motivated Software Development student who is passionate about developing my career and bringing the best to the company I join. 
 I have a proven ability to be persistent and have the drive to keep going in the face of difficult challenges. 
@@ -9,7 +9,7 @@ Furthermore, I excel in tasks due to my organised approach, ensuring efficient c
 [Connect with me on linkedin](https://www.linkedin.com/in/ciara-looney/)
 
 ### Right Now
-I am currently studying Software Development in Munster Technological University. 
+I am currently working in Dell Technologies. I have recently completed my Bachelors degree in Software Development (Munster Technological University.)
 
 ### How I developed an interest in coding
 At the age of 10 I went to techkidz.ie summer camp. This is where I learned basic html for a website. This was my introduction to coding and where I started to become interested in it. After that I always took coding classes when I could. I attended coding classes at Dell, UCC, Colaiste Choilm and St. Aloysius. These gave me more of a basic understanding of coding languages such as python
