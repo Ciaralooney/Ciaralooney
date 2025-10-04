@@ -15,9 +15,10 @@ I am open to work, please get in touch with me through linkedin.
 Up to recently I was working in Dell Technologies. I have recently completed my Bachelors degree in Software Development (Munster Technological University.)
 
 ### Stats
-![](https://komarev.com/ghpvc/?username=Ciaralooney)
+![](https://komarev.com/ghpvc/?username=Ciaralooney) <br>
 ![](http://github-profile-summary-cards.vercel.app/api/cards/stats?username=Ciaralooney&theme=default) 
-[![GitHub Streak](https://streak-stats.demolab.com/?user=Ciaralooney&theme=dark)](https://git.io/streak-stats)
+![](http://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=Ciaralooney&theme=default) 
+![](http://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=Ciaralooney&theme=default) 
 
 ### How I developed an interest in coding
 At the age of 10 I went to techkidz.ie summer camp. This is where I learned basic html for a website. This was my introduction to coding and where I started to become interested in it. After that I always took coding classes when I could. I attended coding classes at Dell, UCC, Colaiste Choilm and St. Aloysius. These gave me more of a basic understanding of coding languages such as python
