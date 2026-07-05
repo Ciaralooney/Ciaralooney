@@ -9,7 +9,7 @@ Furthermore, I excel in tasks due to my organised approach, ensuring efficient c
 [Connect with me on linkedin](https://www.linkedin.com/in/ciara-looney/)
 
 ### Right Now
-I am open to work, please get in touch with me through linkedin.
+I'm currently working at Smarttech24/7 in the automation team
 
 ### Recently
 Up to recently I was working in Dell Technologies. I have recently completed my Bachelors degree in Software Development (Munster Technological University.)
